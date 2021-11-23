@@ -1,5 +1,5 @@
 # Object file
-*test.md
+*.o
 
 # Ada Library Information
 *.ali
