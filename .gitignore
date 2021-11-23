@@ -5,4 +5,4 @@
 *.ali
 
 # Ignore test.md file
-.test
+*.test
