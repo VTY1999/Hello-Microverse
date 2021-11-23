@@ -1,8 +1,5 @@
-# Object file
-*.o
+$ touch .gitignore
 
-# Ada Library Information
-*.ali
+$ git rm --cached test.md
 
-# Ignore test.md file
-*test.md
+$ git config --global core.excludesfile ~/.gitignore_global
